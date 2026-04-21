@@ -1,0 +1,10 @@
+#define RECIRC_PORT 160
+#define RECIRC_PORT2 168
+#define IN_OR_OUT_PORT 156
+#define HASH_WIDTH 12
+#define EGRESS_PORT 176
+
+#define QID_OFFSET 0x2
+#define QID_WIDTH 3
+
+#define MAX_VALUE 10000000    //
